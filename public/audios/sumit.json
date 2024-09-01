@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "soundFile": "E:\\3DAvatar\\r3f-vite-starter\\public\\audios\\sumit.ogg",
+    "duration": 2.40
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "X" },
+    { "start": 0.10, "end": 0.46, "value": "B" },
+    { "start": 0.46, "end": 0.60, "value": "F" },
+    { "start": 0.60, "end": 0.68, "value": "A" },
+    { "start": 0.68, "end": 0.75, "value": "B" },
+    { "start": 0.75, "end": 0.88, "value": "C" },
+    { "start": 0.88, "end": 0.96, "value": "A" },
+    { "start": 0.96, "end": 1.17, "value": "B" },
+    { "start": 1.17, "end": 1.25, "value": "A" },
+    { "start": 1.25, "end": 1.30, "value": "C" },
+    { "start": 1.30, "end": 1.35, "value": "F" },
+    { "start": 1.35, "end": 1.43, "value": "A" },
+    { "start": 1.43, "end": 1.48, "value": "C" },
+    { "start": 1.48, "end": 1.52, "value": "B" },
+    { "start": 1.52, "end": 1.66, "value": "D" },
+    { "start": 1.66, "end": 1.80, "value": "C" },
+    { "start": 1.80, "end": 1.94, "value": "E" },
+    { "start": 1.94, "end": 2.08, "value": "F" },
+    { "start": 2.08, "end": 2.40, "value": "X" }
+  ]
+}
