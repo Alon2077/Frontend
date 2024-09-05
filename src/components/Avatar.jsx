@@ -28,8 +28,8 @@ export function Avatar(props) {
   const { playAudio, script } = useControls({
     playAudio: false,
     script: {
-      value: "welcome",
-      options: ["welcome", "sumit"],
+      value: "hawajastai",
+      options: ["hawajastai"],
     },
   });
 
@@ -91,7 +91,7 @@ export function Avatar(props) {
   idleAnimation[0].name = "Idle";
   thankfulAnimation[0].name = "Thankful";
 
-  const [animation, setAnimation] = useState("Idle");
+  const [animation, setAnimation] = useState("Bow");
 
   const group = useRef();
   const { actions } = useAnimations(
